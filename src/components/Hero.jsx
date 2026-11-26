@@ -6,7 +6,6 @@ export default function Hero() {
         <ul className="nav-links">
           <li><a href="#services">Services</a></li>
           <li><a href="#work">Work</a></li>
-          <li><a href="#experience">Experience</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
